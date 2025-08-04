@@ -24,7 +24,7 @@ Predict the winner of a tennis match using a logistic regression model trained o
   - `winrate_diff`
 - Clean and well-documented notebook including preprocessing and model training
 
-## 📁 Repository Structure
+## Repository Structure
 
 tennis-prediction/
 │
